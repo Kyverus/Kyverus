@@ -14,11 +14,11 @@
 <hr />
 <div align="center"> 
  
-**STATS** <br /> <br />
-![](https://github-readme-stats.vercel.app/api?username=Kyverus&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/> <br />
-![](https://github-readme-streak-stats.herokuapp.com/?user=Kyverus&theme=gotham&hide_border=true)<br/> <br />
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyverus&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br /> <br />
-![](https://www.codewars.com/users/Gamerift7/badges/small) 
+**STATS** <br />
+<!--![](https://github-readme-stats.vercel.app/api?username=Kyverus&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/> <br />
+![](https://github-readme-streak-stats.herokuapp.com/?user=Kyverus&theme=gotham&hide_border=true)<br/> <br /> -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyverus&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br /> <br /> 
+![](https://www.codewars.com/users/Gamerift7/badges/small)
 
 <span><!-- Proudly initialized with GPRM ( https://gprm.itsvg.in ) --></span>
 
